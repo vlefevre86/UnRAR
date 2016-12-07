@@ -1,1 +1,1 @@
-*/5 * * * * /bin/unrar_torrent.sh "/data/tv-sonarr"
+*/5 * * * * /bin/unrar_torrent.sh "/data/"
